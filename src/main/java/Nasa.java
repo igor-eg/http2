@@ -15,7 +15,6 @@ public class Nasa {
     private final String url;
 
 
-
     public Nasa(
             @JsonProperty("copyright") String copyright,
             @JsonProperty("date") String date,
